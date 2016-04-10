@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="@drawable/backgoundmain">
+
+        <Button
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="5dp"
+            android:text="Người vs Người"
+            android:id="@+id/btnHumVsHum"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:background="@drawable/border_button" />
+
+        <Button
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="Người vs Máy"
+            android:id="@+id/btnHumVsCom"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:background="@drawable/border_button" />
+
+        <Button
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:text="Cài đặt"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/border_button"
+            android:id="@+id/btnSettings"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:text="Trợ giúp"
+            android:id="@+id/btnHelp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/border_button"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:text="Thông tin"
+            android:id="@+id/btnInfo"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/border_button"
+            android:layout_gravity="center_horizontal" />
+
+
+    </LinearLayout>
+</RelativeLayout>
+    <!--Source code by LamNguyen-->

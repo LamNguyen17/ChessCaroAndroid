@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ChessCaroAndroid</string>
+    <string name="newgame">New game</string>
+    <string name="savegame">Save game</string>
+    <string name="setting">Pause game</string>
+    <string name="music">music</string>
+    <string name="home">Home</string>
+    <string name="tab1">
+        Cờ caro là một trò chơi khá quen thuộc và phố biến ở Việt Nam, bên đầu tiên có được một chuỗi liên tục 5 nước
+        hàng ngang,hàng dọc hoặc đường chéo. Đây là 1 trò chơi bổ ích giúp bạn rèn luyện trí tuệ thông qua việc nghĩ
+        ra các nước đi khéo léo để chiến thắng.
+
+        Source code by LamNguyen
+    </string>
+    <string name="tab2">
+        Luật chơi cũng khá đơn giản bên đầu tiên có được 1 chuỗi liên tục 5 nước hàng ngang,dọc,hàng chéo sẽ chiến thắng.
+
+        Source code by LamNguyen
+    </string>
+    <string name="info">
+        Họ và tên: Nguyễn Tuấn Lâm.
+        Email: nglam176@gmail.com
+        . Sdt : 0972875871
+        . Tên người cố vấn: Lê Văn Giáp
+        . Lớp học android
+        . Batch1 + 106
+        . Thông tin về app: App làm về game cờ caro trong android,
+        có 2 button cho người chơi với người và người chơi với máy,
+        1 button trợ giúp và 1 button cài đặt, có hỗ trợ âm thanh khi chơi game.
+        Có thể tắt âm thanh trên thanh tabbar. Xem hướng dẫn để hiểu luật chơi
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Single_player">Single player</string>
+    <string name="ChessCaro">Chess Caro</string>
+    <string name="SinglePlayer">SinglePlayer</string>
+    <string name="MultiPlayer">MultiPlayer</string>
+    <string name="Settings">Settings</string>
+    <string name="Help">Help</string>
+    <string name="Quit">Quit</string>
+    <string name="File">File</string>
+    <string name="Info">Info</string>
+    <string name="Symbol">Symbol</string>
+    <string name="OK">OK</string>
+    <string name="First_activity">First_activity</string>
+    <string name="Second_activity">Second_activity</string>
+    <string name="cell_char">cell_char</string>
+</resources>
